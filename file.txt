@@ -4,12 +4,7 @@ int main()
 int a =4,b=5;
 int result =a+b;
 printf("%d",result);
+printf("\n");
 }
-vishal dethe
 
 
-
-Napino
-
-
-lokesh
