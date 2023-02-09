@@ -5,3 +5,4 @@ int a=6,b=4;
 int result = a-b;
 printf("%d",result);
 }
+dethe vishal
